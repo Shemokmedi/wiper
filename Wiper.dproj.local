@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.124,=C:\Users\Константин\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,D:\Projects\Phoenix\Wiper\source\Main.pas=C:\Users\Константин\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,D:\Projects\Phoenix\Wiper\source\WipeFile.pas=D:\Projects\Phoenix\Wiper\source\Wiper.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,D:\Projects\Phoenix\Wiper\source\Wiper.dproj=C:\Users\Константин\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,D:\Projects\Phoenix\Wiper\source\Wiper.pas=D:\Projects\Phoenix\Wiper\source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,D:\Projects\Phoenix\Wiper\source\Main.dfm=C:\Users\Константин\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,=D:\Projects\Phoenix\Wiper\source\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
